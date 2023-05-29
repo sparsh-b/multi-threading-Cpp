@@ -1,6 +1,6 @@
 /**
  * @file lock_try_lock.cpp
- * @author Sparsh Bhogavilli
+ * @author (https://github.com/sparsh-b)
  * @brief Demonstration of blocking nature of mutex::lock() and non-blocking nature of mutex::try_lock()
  * @version 0.1
  * @date 2023-05-27

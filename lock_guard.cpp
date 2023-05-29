@@ -1,6 +1,6 @@
 /**
  * @file lock_guard.cpp
- * @author Sparsh Bhogavilli
+ * @author (https://github.com/sparsh-b)
  * @brief Source code to append two pairs of sequential numbers using two threads 
  * while ensuring mutual exclusion through std::lock_guard
  * @version 0.1

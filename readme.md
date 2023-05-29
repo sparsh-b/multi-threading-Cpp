@@ -1,3 +1,8 @@
+# Multi-Threading in Modern C++
+- Various concepts of multi-threading are organized into different files in this repo.
+
+### [basic.cpp](./basic.cpp)
+- An introductory basic code to Creating threads and joining
 
 ### lock_guard
 - It is not a good practice to call the member functions `std::mutex::lock()` and `std::mutex::unlock()` directly.
