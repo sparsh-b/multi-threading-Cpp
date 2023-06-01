@@ -1,6 +1,10 @@
 # Multi-Threading in Modern C++
 - Various concepts of multi-threading are organized into different files in this repo.
 
+### Documentation
+- The Doxygen documentation for this repository is available [here](https://sparsh-b.github.io/multi-threading-Cpp/documentation/html/index.html).
+- The below description supplements the doxygen documentation.
+
 ### [basic.cpp](./basic.cpp)
 - An introductory basic code to Creating threads and joining
 
